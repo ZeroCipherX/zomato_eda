@@ -62,17 +62,12 @@ The project aims to answer the following questions:
 ## How to Run
 
 1. Clone the repository  
-   ```bash
+```bash
    git clone https://github.com/ZeroCipherX/zomato_eda.git
    cd zomato_eda
-````
+```
 
-2. Install dependencies
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Launch the Jupyter Notebook
+2. Launch the Jupyter Notebook
 
    ```bash
    jupyter notebook Zomato_EDA.ipynb
