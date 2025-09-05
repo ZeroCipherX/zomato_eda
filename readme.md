@@ -1,5 +1,3 @@
-Understood 👍 Here’s a **clean, professional README.md** without emojis or fluff:
-
 ````markdown
 # Zomato Restaurants EDA
 
@@ -81,6 +79,3 @@ The project aims to answer the following questions:
    jupyter notebook Zomato_EDA.ipynb
    ```
 
-```
-
----
