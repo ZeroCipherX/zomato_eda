@@ -1,4 +1,3 @@
-````markdown
 # Zomato Restaurants EDA
 
 This repository contains an Exploratory Data Analysis (EDA) of the Zomato Restaurants Dataset. The analysis focuses on understanding restaurant distribution, customer preferences, pricing, and ratings across different locations.
